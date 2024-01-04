@@ -1,4 +1,5 @@
 "# APIMonetisationandusageEquirements" 
+
 This project was collaboratively created by Jafan Mulama and Cyrus Mbithi. For inquiries, please reach out to Jafan at 0799557112.
 
 API Monetisation and usage requirements
